@@ -13,4 +13,3 @@ void main() {
   querySelector("#text2")
       ..text = "Počet ovoce je: " + ovoceString;  
 }
-
